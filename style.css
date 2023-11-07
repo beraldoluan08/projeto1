@@ -1,3 +1,13 @@
-#europa{
-    width: 400px;
+.cabecalho{
+background-color: black;
+color: blueviolet;
+}
+.principal{
+background-color: beige;
+color: bisque;
+}
+.rodape{
+background-color: antiquewhite;
+color: aquamarine;
+text-align: center;
 }
